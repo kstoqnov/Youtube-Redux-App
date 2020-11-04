@@ -1,0 +1,16 @@
+
+exports[`App Should snapshot App 1`] = `
+<BrowserRouter>
+  <div>
+    <Route
+      component={[Function]}
+      exact={true}
+      path="/"
+    />
+    <Route
+      component={[Function]}
+      path="/video-detail:id"
+    />
+  </div>
+</BrowserRouter>
+`;
